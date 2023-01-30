@@ -1,0 +1,5 @@
+friction.txt为原始的摩擦力数据
+
+friction_avecorrelate_averunning.txt为使用fix ave/correlate得到的自相关函数。
+
+正常来说，使用friction.txt中的原始数据也可以得到friction_avecorrelate_averunning.txt中的数据。
